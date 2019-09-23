@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    username: root
+    password: test123
+
+mybatis:
+  mapper-locations: classpath*:/mybatis/*
+  configuration:
+    cache-enabled: true
+    map-underscore-to-camel-case: true
