@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
 
     <name>Nova Gestion</name>
-    <description>Name says it all</description>
+    <description>Outil de gestion à l'interne pour l'entreprise Affut-Mill</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
